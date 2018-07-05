@@ -1,0 +1,2 @@
+# MiniPaint
+MINI_PAINT is similar to Microsoft Paint. This application allows user to draw different shapes with different sizes. The user can save his art on a file and can open it whenever he wants This application uses a. Stack Data Structure to implement undo and redo  b. MouseAdapter class  c. MouseListener and MouseMotionListener interfaces d. Swing Controls, Swing Container and Swing Menu  e. Graphics2D class  f. JFileChooser class
